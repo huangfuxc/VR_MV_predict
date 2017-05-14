@@ -1,0 +1,22 @@
+﻿生成启动时间为 2017/5/11 21:50:08。
+     1>项目“E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\vc2013\TAppEncoder_vc2013.vcxproj”在节点 5 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\x86_amd64\CL.exe /c /I"E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /O2 /Ob2 /Ot /GL /D WIN32 /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TAppEncoder\\" /Fd"E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TAppEncoder\vc120.pdb" /Gd /TP /errorReport:prompt ..\..\source\App\TAppEncoder\TAppEncCfg.cpp ..\..\source\App\TAppEncoder\TAppEncTop.cpp ..\..\source\App\TAppEncoder\encmain.cpp
+         TAppEncCfg.cpp
+         TAppEncTop.cpp
+         encmain.cpp
+       Link:
+         D:\VS2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\..\bin\vc2013\x64\Release\TAppEncoder.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\..\bin\vc2013\x64\Release\TAppEncoder.pdb" /SUBSYSTEM:CONSOLE /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\..\bin\vc2013\x64\Release\TAppEncoder.lib" /MACHINE:X64 "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TAppEncoder\encmain.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TAppEncoder\TAppEncCfg.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TAppEncoder\TAppEncTop.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\vc2013\x64\Release\TAppCommon\TAppCommon.lib"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\vc2013\x64\Release\TLibCommon\TLibCommon.lib"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\vc2013\x64\Release\TLibEncoder\TLibEncoder.lib"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\vc2013\x64\Release\TLibVideoIo\TLibVideoIO.lib"
+         正在生成代码
+     1>LINK : fatal error LNK1257: 代码生成失败
+     1>已完成生成项目“E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\vc2013\TAppEncoder_vc2013.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:13.10

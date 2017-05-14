@@ -1,0 +1,110 @@
+﻿Build started 2017/5/6 11:17:48.
+     1>Project "U:\build\vc2010\TLibCommon_vc2010.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "U:\build\\vc2010\x64\Release\TLibCommon\TLibCommon.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /IU:\build\\..\source\Lib\ /Zi /nologo /W3 /WX- /O2 /Ob2 /Ot /GL /D WIN32 /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"U:\build\\vc2010\x64\Release\TLibCommon\\" /Fd"U:\build\\vc2010\x64\Release\TLibCommon\vc100.pdb" /Gd /TP /errorReport:prompt ..\..\source\Lib\TLibCommon\ContextModel.cpp ..\..\source\Lib\TLibCommon\ContextModel3DBuffer.cpp ..\..\source\Lib\TLibCommon\Debug.cpp ..\..\source\Lib\TLibCommon\SEI.cpp ..\..\source\Lib\TLibCommon\TComBitStream.cpp ..\..\source\Lib\TLibCommon\TComCABACTables.cpp ..\..\source\Lib\TLibCommon\TComChromaFormat.cpp ..\..\source\Lib\TLibCommon\TComDataCU.cpp ..\..\source\Lib\TLibCommon\TComInterpolationFilter.cpp ..\..\source\Lib\TLibCommon\TComLoopFilter.cpp ..\..\source\Lib\TLibCommon\TComMotionInfo.cpp ..\..\source\Lib\TLibCommon\TComPattern.cpp ..\..\source\Lib\TLibCommon\TComPic.cpp ..\..\source\Lib\TLibCommon\TComPicSym.cpp ..\..\source\Lib\TLibCommon\TComPicYuv.cpp ..\..\source\Lib\TLibCommon\TComPicYuvMD5.cpp ..\..\source\Lib\TLibCommon\TComPrediction.cpp ..\..\source\Lib\TLibCommon\TComRdCost.cpp ..\..\source\Lib\TLibCommon\TComRdCostWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComRom.cpp ..\..\source\Lib\TLibCommon\TComSampleAdaptiveOffset.cpp ..\..\source\Lib\TLibCommon\TComSlice.cpp ..\..\source\Lib\TLibCommon\TComTU.cpp ..\..\source\Lib\TLibCommon\TComTrQuant.cpp ..\..\source\Lib\TLibCommon\TComWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComYuv.cpp
+         ContextModel.cpp
+         ContextModel3DBuffer.cpp
+         Debug.cpp
+         SEI.cpp
+         TComBitStream.cpp
+         TComCABACTables.cpp
+         TComChromaFormat.cpp
+         TComDataCU.cpp
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(718): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(719): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(737): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(738): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2280): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2281): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2303): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2304): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2412): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2413): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2449): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2450): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2584): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2585): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2595): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2596): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2637): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2638): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2648): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2649): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2748): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2749): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2778): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2779): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2904): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2905): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2915): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2916): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2961): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2962): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2972): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2973): warning C4244: 'argument' : conversion from 'double' to 'Short', possible loss of data
+         TComInterpolationFilter.cpp
+         TComLoopFilter.cpp
+         TComMotionInfo.cpp
+         TComPattern.cpp
+         TComPic.cpp
+         TComPicSym.cpp
+         TComPicYuv.cpp
+         TComPicYuvMD5.cpp
+         TComPrediction.cpp
+     1>..\..\source\Lib\TLibCommon\TComPrediction.cpp(815): warning C4804: '/' : unsafe use of type 'bool' in operation
+     1>..\..\source\Lib\TLibCommon\TComPrediction.cpp(1375): warning C4244: 'initializing' : conversion from 'double' to 'Int', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComPrediction.cpp(1376): warning C4244: 'initializing' : conversion from 'double' to 'Int', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComPrediction.cpp(2027): warning C4244: 'initializing' : conversion from 'double' to 'Int', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComPrediction.cpp(2028): warning C4244: 'initializing' : conversion from 'double' to 'Int', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComPrediction.cpp(2455): warning C4244: 'initializing' : conversion from 'double' to 'Int', possible loss of data
+     1>..\..\source\Lib\TLibCommon\TComPrediction.cpp(2456): warning C4244: 'initializing' : conversion from 'double' to 'Int', possible loss of data
+         TComRdCost.cpp
+         TComRdCostWeightPrediction.cpp
+         TComRom.cpp
+         Compiling...
+         TComSampleAdaptiveOffset.cpp
+         TComSlice.cpp
+         TComTU.cpp
+         TComTrQuant.cpp
+         TComWeightPrediction.cpp
+         TComYuv.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\Lib.exe /OUT:"U:\build\\vc2010\x64\Release\TLibCommon\TLibCommon.lib" /NOLOGO /LTCG U:\build\\vc2010\x64\Release\TLibCommon\libmd5.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\ContextModel.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\ContextModel3DBuffer.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\Debug.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\SEI.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComBitStream.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComCABACTables.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComChromaFormat.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComDataCU.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComInterpolationFilter.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComLoopFilter.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComMotionInfo.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComPattern.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComPic.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComPicSym.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComPicYuv.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComPicYuvMD5.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComPrediction.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComRdCost.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComRdCostWeightPrediction.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComRom.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComSampleAdaptiveOffset.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComSlice.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComTrQuant.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComTU.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComWeightPrediction.obj
+         U:\build\\vc2010\x64\Release\TLibCommon\TComYuv.obj
+         TLibCommon_vc2010.vcxproj -> U:\build\\vc2010\x64\Release\TLibCommon\TLibCommon.lib
+       FinalizeBuildStatus:
+         Deleting file "U:\build\\vc2010\x64\Release\TLibCommon\TLibCommon.unsuccessfulbuild".
+         Touching "U:\build\\vc2010\x64\Release\TLibCommon\TLibCommon.lastbuildstate".
+     1>Done Building Project "U:\build\vc2010\TLibCommon_vc2010.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:36.68

@@ -1,0 +1,49 @@
+﻿生成启动时间为 2017/5/11 21:49:40。
+     1>项目“E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\vc2013\TLibEncoder_vc2013.vcxproj”在节点 5 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\x86_amd64\CL.exe /c /I"E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /O2 /Ob2 /Ot /GL /D WIN32 /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\\" /Fd"E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\vc120.pdb" /Gd /TP /errorReport:prompt ..\..\source\Lib\TLibEncoder\NALwrite.cpp ..\..\source\Lib\TLibEncoder\SEIEncoder.cpp ..\..\source\Lib\TLibEncoder\SEIwrite.cpp ..\..\source\Lib\TLibEncoder\SyntaxElementWriter.cpp ..\..\source\Lib\TLibEncoder\TEncBinCoderCABAC.cpp ..\..\source\Lib\TLibEncoder\TEncBinCoderCABACCounter.cpp ..\..\source\Lib\TLibEncoder\TEncCavlc.cpp ..\..\source\Lib\TLibEncoder\TEncCu.cpp ..\..\source\Lib\TLibEncoder\TEncEntropy.cpp ..\..\source\Lib\TLibEncoder\TEncGOP.cpp ..\..\source\Lib\TLibEncoder\TEncPic.cpp ..\..\source\Lib\TLibEncoder\TEncPreanalyzer.cpp ..\..\source\Lib\TLibEncoder\TEncRateCtrl.cpp ..\..\source\Lib\TLibEncoder\TEncSampleAdaptiveOffset.cpp ..\..\source\Lib\TLibEncoder\TEncSbac.cpp ..\..\source\Lib\TLibEncoder\TEncSearch.cpp ..\..\source\Lib\TLibEncoder\TEncSlice.cpp ..\..\source\Lib\TLibEncoder\TEncTop.cpp ..\..\source\Lib\TLibEncoder\WeightPredAnalysis.cpp
+         NALwrite.cpp
+         SEIEncoder.cpp
+         SEIwrite.cpp
+         SyntaxElementWriter.cpp
+         TEncBinCoderCABAC.cpp
+         TEncBinCoderCABACCounter.cpp
+         TEncCavlc.cpp
+         TEncCu.cpp
+         TEncEntropy.cpp
+         TEncGOP.cpp
+         TEncPic.cpp
+         TEncPreanalyzer.cpp
+         TEncRateCtrl.cpp
+         TEncSampleAdaptiveOffset.cpp
+         TEncSbac.cpp
+         TEncSearch.cpp
+         TEncSlice.cpp
+         TEncTop.cpp
+         WeightPredAnalysis.cpp
+       Lib:
+         D:\VS2013\VC\bin\x86_amd64\Lib.exe /OUT:"E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TLibEncoder.lib" /NOLOGO /MACHINE:X64 /LTCG "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\NALwrite.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\SEIEncoder.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\SEIwrite.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\SyntaxElementWriter.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TEncBinCoderCABAC.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TEncBinCoderCABACCounter.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TEncCavlc.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TEncCu.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TEncEntropy.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TEncGOP.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TEncPic.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TEncPreanalyzer.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TEncRateCtrl.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TEncSampleAdaptiveOffset.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TEncSbac.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TEncSearch.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TEncSlice.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TEncTop.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\WeightPredAnalysis.obj"
+         TLibEncoder_vc2013.vcxproj -> E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibEncoder\TLibEncoder.lib
+     1>已完成生成项目“E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\vc2013\TLibEncoder_vc2013.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:26.45

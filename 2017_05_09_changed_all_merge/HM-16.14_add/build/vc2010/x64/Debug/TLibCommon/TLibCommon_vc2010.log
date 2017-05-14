@@ -1,0 +1,44 @@
+﻿Build started 2017/5/9 10:52:35.
+     1>Project "U:\build\vc2010\TLibCommon_vc2010.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "U:\build\\vc2010\x64\Debug\TLibCommon\TLibCommon.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\Lib.exe /OUT:"U:\build\\vc2010\x64\Debug\TLibCommon\TLibCommon.lib" /NOLOGO U:\build\\vc2010\x64\Debug\TLibCommon\libmd5.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\ContextModel.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\ContextModel3DBuffer.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\Debug.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\SEI.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComBitStream.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComCABACTables.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComChromaFormat.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComDataCU.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComInterpolationFilter.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComLoopFilter.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComMotionInfo.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComPattern.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComPic.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComPicSym.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComPicYuv.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComPicYuvMD5.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComPrediction.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComRdCost.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComRdCostWeightPrediction.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComRom.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComSampleAdaptiveOffset.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComSlice.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComTrQuant.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComTU.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComWeightPrediction.obj
+         U:\build\\vc2010\x64\Debug\TLibCommon\TComYuv.obj
+         TLibCommon_vc2010.vcxproj -> U:\build\\vc2010\x64\Debug\TLibCommon\TLibCommon.lib
+       FinalizeBuildStatus:
+         Deleting file "U:\build\\vc2010\x64\Debug\TLibCommon\TLibCommon.unsuccessfulbuild".
+         Touching "U:\build\\vc2010\x64\Debug\TLibCommon\TLibCommon.lastbuildstate".
+     1>Done Building Project "U:\build\vc2010\TLibCommon_vc2010.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.22

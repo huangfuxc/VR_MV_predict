@@ -1,0 +1,54 @@
+﻿Build started 2017/5/6 11:17:48.
+     1>Project "U:\build\vc2010\TLibEncoder_vc2010.vcxproj" on node 4 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "U:\build\\vc2010\x64\Release\TLibEncoder\TLibEncoder.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /IU:\build\\..\source\Lib\ /Zi /nologo /W3 /WX- /O2 /Ob2 /Ot /GL /D WIN32 /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"U:\build\\vc2010\x64\Release\TLibEncoder\\" /Fd"U:\build\\vc2010\x64\Release\TLibEncoder\vc100.pdb" /Gd /TP /errorReport:prompt ..\..\source\Lib\TLibEncoder\NALwrite.cpp ..\..\source\Lib\TLibEncoder\SEIEncoder.cpp ..\..\source\Lib\TLibEncoder\SEIwrite.cpp ..\..\source\Lib\TLibEncoder\SyntaxElementWriter.cpp ..\..\source\Lib\TLibEncoder\TEncBinCoderCABAC.cpp ..\..\source\Lib\TLibEncoder\TEncBinCoderCABACCounter.cpp ..\..\source\Lib\TLibEncoder\TEncCavlc.cpp ..\..\source\Lib\TLibEncoder\TEncCu.cpp ..\..\source\Lib\TLibEncoder\TEncEntropy.cpp ..\..\source\Lib\TLibEncoder\TEncGOP.cpp ..\..\source\Lib\TLibEncoder\TEncPic.cpp ..\..\source\Lib\TLibEncoder\TEncPreanalyzer.cpp ..\..\source\Lib\TLibEncoder\TEncRateCtrl.cpp ..\..\source\Lib\TLibEncoder\TEncSampleAdaptiveOffset.cpp ..\..\source\Lib\TLibEncoder\TEncSbac.cpp ..\..\source\Lib\TLibEncoder\TEncSearch.cpp ..\..\source\Lib\TLibEncoder\TEncSlice.cpp ..\..\source\Lib\TLibEncoder\TEncTop.cpp ..\..\source\Lib\TLibEncoder\WeightPredAnalysis.cpp
+         NALwrite.cpp
+         SEIEncoder.cpp
+         SEIwrite.cpp
+         SyntaxElementWriter.cpp
+         TEncBinCoderCABAC.cpp
+         TEncBinCoderCABACCounter.cpp
+         TEncCavlc.cpp
+         TEncCu.cpp
+         TEncEntropy.cpp
+         TEncGOP.cpp
+         TEncPic.cpp
+         TEncPreanalyzer.cpp
+         TEncRateCtrl.cpp
+         TEncSampleAdaptiveOffset.cpp
+         TEncSbac.cpp
+         TEncSearch.cpp
+         TEncSlice.cpp
+         TEncTop.cpp
+         WeightPredAnalysis.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\Lib.exe /OUT:"U:\build\\vc2010\x64\Release\TLibEncoder\TLibEncoder.lib" /NOLOGO /LTCG U:\build\\vc2010\x64\Release\TLibEncoder\NALwrite.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\SEIEncoder.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\SEIwrite.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\SyntaxElementWriter.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\TEncBinCoderCABAC.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\TEncBinCoderCABACCounter.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\TEncCavlc.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\TEncCu.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\TEncEntropy.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\TEncGOP.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\TEncPic.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\TEncPreanalyzer.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\TEncRateCtrl.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\TEncSampleAdaptiveOffset.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\TEncSbac.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\TEncSearch.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\TEncSlice.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\TEncTop.obj
+         U:\build\\vc2010\x64\Release\TLibEncoder\WeightPredAnalysis.obj
+         TLibEncoder_vc2010.vcxproj -> U:\build\\vc2010\x64\Release\TLibEncoder\TLibEncoder.lib
+       FinalizeBuildStatus:
+         Deleting file "U:\build\\vc2010\x64\Release\TLibEncoder\TLibEncoder.unsuccessfulbuild".
+         Touching "U:\build\\vc2010\x64\Release\TLibEncoder\TLibEncoder.lastbuildstate".
+     1>Done Building Project "U:\build\vc2010\TLibEncoder_vc2010.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:32.81

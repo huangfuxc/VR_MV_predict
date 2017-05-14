@@ -1,0 +1,140 @@
+﻿生成启动时间为 2017/5/11 21:49:40。
+     1>项目“E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\vc2013\TLibCommon_vc2013.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\x86_amd64\CL.exe /c /I"E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\..\source\Lib\\" /Zi /nologo /W3 /WX- /O2 /Ob2 /Ot /GL /D WIN32 /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\\" /Fd"E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\vc120.pdb" /Gd /TP /errorReport:prompt ..\..\source\Lib\TLibCommon\ContextModel.cpp ..\..\source\Lib\TLibCommon\ContextModel3DBuffer.cpp ..\..\source\Lib\TLibCommon\Debug.cpp ..\..\source\Lib\TLibCommon\SEI.cpp ..\..\source\Lib\TLibCommon\TComBitStream.cpp ..\..\source\Lib\TLibCommon\TComCABACTables.cpp ..\..\source\Lib\TLibCommon\TComChromaFormat.cpp ..\..\source\Lib\TLibCommon\TComDataCU.cpp ..\..\source\Lib\TLibCommon\TComInterpolationFilter.cpp ..\..\source\Lib\TLibCommon\TComLoopFilter.cpp ..\..\source\Lib\TLibCommon\TComMotionInfo.cpp ..\..\source\Lib\TLibCommon\TComPattern.cpp ..\..\source\Lib\TLibCommon\TComPic.cpp ..\..\source\Lib\TLibCommon\TComPicSym.cpp ..\..\source\Lib\TLibCommon\TComPicYuv.cpp ..\..\source\Lib\TLibCommon\TComPicYuvMD5.cpp ..\..\source\Lib\TLibCommon\TComPrediction.cpp ..\..\source\Lib\TLibCommon\TComRdCost.cpp ..\..\source\Lib\TLibCommon\TComRdCostWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComRom.cpp ..\..\source\Lib\TLibCommon\TComSampleAdaptiveOffset.cpp ..\..\source\Lib\TLibCommon\TComSlice.cpp ..\..\source\Lib\TLibCommon\TComTU.cpp ..\..\source\Lib\TLibCommon\TComTrQuant.cpp ..\..\source\Lib\TLibCommon\TComWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComYuv.cpp
+         ContextModel.cpp
+         ContextModel3DBuffer.cpp
+         Debug.cpp
+         SEI.cpp
+         TComBitStream.cpp
+         TComCABACTables.cpp
+         TComChromaFormat.cpp
+         TComDataCU.cpp
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(718): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(719): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(737): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(738): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(754): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(755): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(771): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(772): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2355): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2356): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2378): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2379): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2528): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2529): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2565): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2566): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2700): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2701): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2711): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2712): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2756): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2757): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2767): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2768): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2872): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2873): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2880): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2881): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2914): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2915): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2922): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(2923): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(3051): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(3052): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(3062): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(3063): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(3108): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(3109): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(3119): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(3120): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4100): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4101): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4115): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4116): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4159): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4160): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4202): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4203): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4213): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4214): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4341): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4342): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4358): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4359): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4636): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4637): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4651): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4652): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4695): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4696): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4738): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4739): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4749): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4750): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4877): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4878): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4894): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComDataCU.cpp(4895): warning C4244: “参数”: 从“double”转换到“Short”，可能丢失数据
+         TComInterpolationFilter.cpp
+         TComLoopFilter.cpp
+         TComMotionInfo.cpp
+         TComPattern.cpp
+         TComPic.cpp
+         TComPicSym.cpp
+         TComPicYuv.cpp
+         TComPicYuvMD5.cpp
+         TComPrediction.cpp
+     1>..\..\source\Lib\TLibCommon\TComPrediction.cpp(823): warning C4804: “/”: 在操作中使用类型“bool”不安全
+     1>..\..\source\Lib\TLibCommon\TComPrediction.cpp(1383): warning C4244: “初始化”: 从“double”转换到“Int”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComPrediction.cpp(1384): warning C4244: “初始化”: 从“double”转换到“Int”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComPrediction.cpp(2035): warning C4244: “初始化”: 从“double”转换到“Int”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComPrediction.cpp(2036): warning C4244: “初始化”: 从“double”转换到“Int”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComPrediction.cpp(2463): warning C4244: “初始化”: 从“double”转换到“Int”，可能丢失数据
+     1>..\..\source\Lib\TLibCommon\TComPrediction.cpp(2464): warning C4244: “初始化”: 从“double”转换到“Int”，可能丢失数据
+         TComRdCost.cpp
+         TComRdCostWeightPrediction.cpp
+         TComRom.cpp
+         正在编译...
+         TComSampleAdaptiveOffset.cpp
+         TComSlice.cpp
+         TComTU.cpp
+         TComTrQuant.cpp
+         TComWeightPrediction.cpp
+         TComYuv.cpp
+       Lib:
+         D:\VS2013\VC\bin\x86_amd64\Lib.exe /OUT:"E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TLibCommon.lib" /NOLOGO /MACHINE:X64 /LTCG "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\libmd5.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\ContextModel.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\ContextModel3DBuffer.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\Debug.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\SEI.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComBitStream.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComCABACTables.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComChromaFormat.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComDataCU.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComInterpolationFilter.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComLoopFilter.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComMotionInfo.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComPattern.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComPic.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComPicSym.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComPicYuv.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComPicYuvMD5.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComPrediction.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComRdCost.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComRdCostWeightPrediction.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComRom.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComSampleAdaptiveOffset.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComSlice.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComTrQuant.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComTU.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComWeightPrediction.obj"
+         "E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TComYuv.obj"
+         TLibCommon_vc2013.vcxproj -> E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\\vc2013\x64\Release\TLibCommon\TLibCommon.lib
+     1>已完成生成项目“E:\ziliao\VR_temp\2017_05_09_changed_all_merge\HM-16.14_add\build\vc2013\TLibCommon_vc2013.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:26.62

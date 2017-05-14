@@ -1,0 +1,9 @@
+﻿Build started 2017/5/4 15:48:49.
+     1>Project "X:\build\vc2010\TLibDecoderAnalyser_vc2010.vcxproj" on node 3 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "X:\build\\vc2010\x64\Release\TLibDecoderAnalyser\TLibDecoderAnalyser.lastbuildstate".
+     1>Done Building Project "X:\build\vc2010\TLibDecoderAnalyser_vc2010.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15

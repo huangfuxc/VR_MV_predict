@@ -1,0 +1,30 @@
+﻿Build started 2017/5/6 11:18:25.
+     1>Project "U:\build\vc2010\TAppEncoder_vc2010.vcxproj" on node 4 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "U:\build\\vc2010\x64\Release\TAppEncoder\TAppEncoder.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /IU:\build\\..\source\Lib\ /Zi /nologo /W3 /WX- /O2 /Ob2 /Ot /GL /D WIN32 /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"U:\build\\vc2010\x64\Release\TAppEncoder\\" /Fd"U:\build\\vc2010\x64\Release\TAppEncoder\vc100.pdb" /Gd /TP /errorReport:prompt ..\..\source\App\TAppEncoder\TAppEncCfg.cpp ..\..\source\App\TAppEncoder\TAppEncTop.cpp ..\..\source\App\TAppEncoder\encmain.cpp
+         TAppEncCfg.cpp
+         TAppEncTop.cpp
+         encmain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"U:\build\\..\bin\vc2010\x64\Release\TAppEncoder.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"U:\build\\vc2010\x64\Release\TAppEncoder\TAppEncoder.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"U:\bin\vc2010\x64\Release\TAppEncoder.pdb" /SUBSYSTEM:CONSOLE /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"U:\build\\..\bin\vc2010\x64\Release\TAppEncoder.lib" /MACHINE:X64 U:\build\\vc2010\x64\Release\TAppEncoder\encmain.obj
+         U:\build\\vc2010\x64\Release\TAppEncoder\TAppEncCfg.obj
+         U:\build\\vc2010\x64\Release\TAppEncoder\TAppEncTop.obj
+         U:\build\vc2010\x64\Release\TAppCommon\TAppCommon.lib
+         U:\build\vc2010\x64\Release\TLibCommon\TLibCommon.lib
+         U:\build\vc2010\x64\Release\TLibEncoder\TLibEncoder.lib
+         U:\build\vc2010\x64\Release\TLibVideoIo\TLibVideoIO.lib
+         Generating code
+         Finished generating code
+         TAppEncoder_vc2010.vcxproj -> U:\build\\..\bin\vc2010\x64\Release\TAppEncoder.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"U:\build\\..\bin\vc2010\x64\Release\TAppEncoder.exe;#1" /manifest U:\build\\vc2010\x64\Release\TAppEncoder\TAppEncoder.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "U:\build\\vc2010\x64\Release\TAppEncoder\TAppEncoder.unsuccessfulbuild".
+         Touching "U:\build\\vc2010\x64\Release\TAppEncoder\TAppEncoder.lastbuildstate".
+     1>Done Building Project "U:\build\vc2010\TAppEncoder_vc2010.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:32.05

@@ -1,0 +1,35 @@
+﻿Build started 2017/5/9 10:52:35.
+     1>Project "U:\build\vc2010\TLibEncoder_vc2010.vcxproj" on node 5 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "U:\build\\vc2010\x64\Debug\TLibEncoder\TLibEncoder.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\Lib.exe /OUT:"U:\build\\vc2010\x64\Debug\TLibEncoder\TLibEncoder.lib" /NOLOGO U:\build\\vc2010\x64\Debug\TLibEncoder\NALwrite.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\SEIEncoder.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\SEIwrite.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\SyntaxElementWriter.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\TEncBinCoderCABAC.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\TEncBinCoderCABACCounter.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\TEncCavlc.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\TEncCu.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\TEncEntropy.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\TEncGOP.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\TEncPic.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\TEncPreanalyzer.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\TEncRateCtrl.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\TEncSampleAdaptiveOffset.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\TEncSbac.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\TEncSearch.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\TEncSlice.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\TEncTop.obj
+         U:\build\\vc2010\x64\Debug\TLibEncoder\WeightPredAnalysis.obj
+         TLibEncoder_vc2010.vcxproj -> U:\build\\vc2010\x64\Debug\TLibEncoder\TLibEncoder.lib
+       FinalizeBuildStatus:
+         Deleting file "U:\build\\vc2010\x64\Debug\TLibEncoder\TLibEncoder.unsuccessfulbuild".
+         Touching "U:\build\\vc2010\x64\Debug\TLibEncoder\TLibEncoder.lastbuildstate".
+     1>Done Building Project "U:\build\vc2010\TLibEncoder_vc2010.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.72

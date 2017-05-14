@@ -1,0 +1,17 @@
+﻿Build started 2017/5/9 10:52:35.
+     1>Project "U:\build\vc2010\TAppCommon_vc2010.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "U:\build\\vc2010\x64\Debug\TAppCommon\TAppCommon.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\Lib.exe /OUT:"U:\build\\vc2010\x64\Debug\TAppCommon\TAppCommon.lib" /NOLOGO U:\build\\vc2010\x64\Debug\TAppCommon\program_options_lite.obj
+         TAppCommon_vc2010.vcxproj -> U:\build\\vc2010\x64\Debug\TAppCommon\TAppCommon.lib
+       FinalizeBuildStatus:
+         Deleting file "U:\build\\vc2010\x64\Debug\TAppCommon\TAppCommon.unsuccessfulbuild".
+         Touching "U:\build\\vc2010\x64\Debug\TAppCommon\TAppCommon.lastbuildstate".
+     1>Done Building Project "U:\build\vc2010\TAppCommon_vc2010.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.89
